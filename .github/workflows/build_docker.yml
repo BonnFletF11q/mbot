@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/BonnFletF11q/mbot
+  GHCR_REPO: ghcr.io/bonnfletf11q/mbot
 
 jobs:
   main:
